@@ -1,2 +1,2 @@
 # Flicka--Candle-Studio
-E-commerce website for flicka, candle stuio, premium soy and beeswax candles.
+E-commerce website for flicka, candle studio, premium soy and beeswax candles.
